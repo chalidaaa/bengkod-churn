@@ -21,11 +21,7 @@ sehingga bisa dilakukan tindakan retensi (promo, peningkatan layanan, dsb.) lebi
 
 ## 🔗 Link Aplikasi (Streamlit Cloud)
 
-> _Belum dideploy — link akan diperbarui setelah aplikasi online._
-
-<!-- Setelah deploy, ganti baris di bawah dengan URL Streamlit kamu:
-**Live Demo:** https://<nama-app>.streamlit.app
--->
+> (https://prediksi-churn-bengkod.streamlit.app/)
 
 ---
 
