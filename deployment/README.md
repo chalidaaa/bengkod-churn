@@ -11,7 +11,7 @@ yang mudah dipahami pengguna awam.
 
 ## 🔗 Link Aplikasi (Streamlit Cloud)
 
-> _Belum dideploy — link akan diperbarui setelah aplikasi online._
+> https://prediksi-churn-bengkod.streamlit.app/
 
 ## Struktur
 
