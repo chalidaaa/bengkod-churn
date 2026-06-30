@@ -167,7 +167,7 @@ g1, g2, g3 = st.columns(3)
 with g1:
     st.markdown(
         '<div class="step-card"><h4><span class="step-badge">1</span>Isi data pelanggan</h4>'
-        '<p>Lengkapi data pada tab Profil, Aktivitas, dan Transaksi di bawah. Ingat ya, ada 3 tab di langkah 1.</p></div>',
+        '<p>Lengkapi data pada tab Profil, Aktivitas, dan Transaksi di bawah. Ingat ya, ada 3 tab di langkah.</p></div>',
         unsafe_allow_html=True,
     )
 with g2:
